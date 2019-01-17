@@ -6,7 +6,7 @@ This repository contains my Python notes.
 
 ### Frameworks
 - [Django](https://www.djangoproject.com)
-- [Flask](http://www.flask.pocoo.org) - a micro-framework for Python, based on:  
+- [Flask](http://flask.pocoo.org) - a micro-framework for Python, based on:  
     - [Werkzeug](http://www.werkzeug.pocoo.org)
     - [Jinja 2](http://www.jinja.pocoo.org)  
 
