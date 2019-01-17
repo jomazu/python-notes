@@ -5,7 +5,12 @@ This repository contains my Python notes.
 ## Useful Links
 - [Python](https://www.python.org/)  
 - [Python Docs](https://docs.python.org/3/)
+- [Web App Deployment](https://www.fullstackpython.com/deployment.html)
+    - Python is executed on the server-side.
+    - JavaScript is downloaded to the client and run by the web browser.  
+
 - [Application Programming Interfaces (APIs)](https://www.fullstackpython.com/application-programming-interfaces.html)
+- 
 
 ### Frameworks
 - [Django](https://www.djangoproject.com)
