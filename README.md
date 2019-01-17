@@ -4,13 +4,7 @@ This repository contains my Python notes.
 
 ## Useful Links
 - [Python](https://www.python.org/)  
-- [Python Docs](https://docs.python.org/3/)
-- [Web App Deployment](https://www.fullstackpython.com/deployment.html)
-    - Python is executed on the server-side.
-    - JavaScript is downloaded to the client and run by the web browser.  
-
-- [Application Programming Interfaces (APIs)](https://www.fullstackpython.com/application-programming-interfaces.html)
-- 
+- [Python Docs](https://docs.python.org/3/) 
 
 ### Frameworks
 - [Django](https://www.djangoproject.com)
@@ -19,8 +13,12 @@ This repository contains my Python notes.
     - [Jinja 2](http://jinja.pocoo.org)  
 
 ### Other
+- [Web Development - Full Stack Python](https://www.fullstackpython.com/web-development.html)
 - [How the Internet works](https://thesquareplanet.com/blog/how-the-internet-works/)
-- 
+- [Web App Deployment](https://www.fullstackpython.com/deployment.html)
+    - Python is executed on the server-side.
+    - JavaScript is downloaded to the client and run by the web browser.  
+- [Application Programming Interfaces (APIs)](https://www.fullstackpython.com/application-programming-interfaces.html)
 
 ## [Syntax Refresher](./Syntax_Refresher)
 
