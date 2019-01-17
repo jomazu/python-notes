@@ -2,8 +2,9 @@
 
 This repository contains my Python notes.  
 
-### [Terminal Commands](./TOC/terminal-cmds.md)
-### [Variables and Methods](./TOC/variables-methods.md)
+### Section Links
+- [Terminal Commands](./TOC/terminal-cmds.md)
+- [Variables and Methods](./TOC/variables-methods.md)
 
 ---
 ## Useful Links
