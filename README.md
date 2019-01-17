@@ -1,5 +1,15 @@
-# Python Notes
+# Python 3
 
 This repository contains my Python notes.  
 
-## [Section 1](./Section_1)
+## Useful Links
+
+### Frameworks
+- [Django](djangoproject.com)
+- [Flask](flask.pocoo.org) - a micro-framework for Python, based on:  
+    - [Werkzeug](werkzeug.pocoo.org)
+    - [Jinja 2](jinja.pocoo.org)  
+
+## [Syntax Refresher](./Syntax_Refresher)
+
+The most basic python building block, the variable.  
