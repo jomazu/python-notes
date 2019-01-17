@@ -3,8 +3,8 @@
 This repository contains my Python notes.  
 
 ## Useful Links
-- [Python](https://www.python.org/)  
-- [Python Docs](https://docs.python.org/3/) 
+- [Python - Homepage](https://www.python.org/)  
+- [Python Docs - 3.7.2](https://docs.python.org/3/) 
 
 ### Frameworks
 - [Django](https://www.djangoproject.com)
