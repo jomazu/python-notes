@@ -1,7 +1,14 @@
 # Terminal Commands
-[Return HOME](../README.md)
+[HOME](../README.md)
 
 ### Macbook
 
-- EXIT the python interactive shell - `ctrl + z`  
+#### Python Interactive Shell  
+
+- EXIT the python interactive shell  
+```ctrl + z```  
+
+#### VS Code
+- OPEN/CLOSE terminal  
+```ctrl + ~```  
 
