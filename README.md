@@ -7,7 +7,7 @@ This repository contains my Python notes.
 - [Variables and Methods](./TOC/variables-methods.md)
 
 ## Useful Links
-- [Python Homepage](https://www.python.org/)  
+- [Python](https://www.python.org/)  
 - [Python Docs - 3.7.2](https://docs.python.org/3/) 
 
 ## Framework Links
@@ -23,7 +23,4 @@ This repository contains my Python notes.
     - Python is executed on the server-side.
     - JavaScript is downloaded to the client and run by the web browser.  
 - [Application Programming Interfaces (APIs)](https://www.fullstackpython.com/application-programming-interfaces.html)
-
-
-Test, 1, 2, 3...
 
