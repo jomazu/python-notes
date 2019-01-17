@@ -6,7 +6,6 @@ This repository contains my Python notes.
 - [Terminal Commands](./TOC/terminal-cmds.md)
 - [Variables and Methods](./TOC/variables-methods.md)
 
----
 ## Useful Links
 - [Python Homepage](https://www.python.org/)  
 - [Python Docs - 3.7.2](https://docs.python.org/3/) 
