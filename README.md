@@ -24,3 +24,6 @@ This repository contains my Python notes.
     - JavaScript is downloaded to the client and run by the web browser.  
 - [Application Programming Interfaces (APIs)](https://www.fullstackpython.com/application-programming-interfaces.html)
 
+
+Test, 1, 2, 3...
+
