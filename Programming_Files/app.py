@@ -4,7 +4,9 @@ print("*" * 20)
 
 print('hi')
 b = 10
-a = b 
+a = b
 print(a)
 
+x = 1
 x=1
+print (hello)
