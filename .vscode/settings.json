@@ -1,0 +1,14 @@
+{
+  "python.pythonPath": "/Users/johnz/anaconda3/bin/python",
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext",
+    "python"
+  ],
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
