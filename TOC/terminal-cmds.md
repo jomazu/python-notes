@@ -26,3 +26,6 @@ Open this window and keep active while coding in your `.py` file.
 ```shift + cmd + p```  
 While in a `.py` file, periodically type FORMAT DOCUMENT.  This will automatically adjust the code to match the PEP-8 style guide.  The best method is to select the `formatOnSave` option in preferences/settings.  
 
+- Install [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) so that you can easily run your `.py` programs without having to go to the terminal and type `python app.py` etc. each time you want to run the program.  
+```shift + alt + n```  
+
