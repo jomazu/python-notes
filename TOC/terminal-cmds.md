@@ -10,5 +10,5 @@
 
 ### VS Code
 - OPEN/CLOSE terminal  
-```ctrl + ~```  
+```ctrl + backtick```  
 
