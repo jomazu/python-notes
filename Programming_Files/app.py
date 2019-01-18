@@ -7,6 +7,4 @@ b = 10
 a = b
 print(a)
 
-x = 1
-x=1
-print (hello)
+unit_price = 22.9

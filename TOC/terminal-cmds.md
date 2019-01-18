@@ -24,5 +24,5 @@ Open this window and keep active while coding in your `.py` file.
 
 - Format Document using PEP-8:  
 ```shift + cmd + p```  
-While in a `.py` file, periodically type FORMAT DOCUMENT.  This will automatically adjust the code to match the PEP-8 style guide.  
+While in a `.py` file, periodically type FORMAT DOCUMENT.  This will automatically adjust the code to match the PEP-8 style guide.  The best method is to select the `formatOnSave` option in preferences/settings.  
 
