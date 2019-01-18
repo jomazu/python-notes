@@ -8,7 +8,9 @@ This repository contains my Python notes.
 
 ## Useful Links
 - [Python](https://www.python.org/)  
-- [Python Docs - 3.7.2](https://docs.python.org/3/) 
+- [Python Docs - 3.7.2](https://docs.python.org/3/)  
+- [Python Enhancement Proposals (PEPs)](https://www.python.org/dev/peps/)  
+- [Style Guide for Python Code (PEP-8)](https://www.python.org/dev/peps/pep-0008/)
 
 ## Framework Links
 - [Django](https://www.djangoproject.com)
