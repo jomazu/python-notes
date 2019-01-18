@@ -1,5 +1,5 @@
 print("*" * 20)
-print("Hello, World! 😀p")
+print("Hello, World! 😀")
 print("*" * 20)
 
 print('hi')
