@@ -21,3 +21,7 @@ Type LINT or PYTHON to make sure it is on and/or active
 - Show Linting issues  
 ```shift + cmd + m```  
 
+- Format Document using PEP-8  
+```shift + cmd + p```  
+While in a `.py` file, type FORMAT DOCUMENT to make sure it is on and/or active.  This will automatically adjust the code to match the PEP-8 style guide.  
+
