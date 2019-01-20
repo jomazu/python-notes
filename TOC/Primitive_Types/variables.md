@@ -1,5 +1,5 @@
 # Variables and Methods
-[HOME](../README.md)  
+[HOME](../../README.md)  
 
 The most basic python building block is the variable.  
 

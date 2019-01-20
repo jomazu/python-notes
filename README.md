@@ -4,7 +4,7 @@ This repository contains my Python notes.
 
 ## Section Links
 - [Terminal Commands](./TOC/terminal-cmds.md)
-- [Variables and Methods](./TOC/variables-methods.md)
+- [Variables](./TOC/Primitive_Types/variables.md)
 
 ## Useful Links
 - [Python](https://www.python.org/)  
