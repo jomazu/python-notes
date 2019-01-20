@@ -1,4 +1,4 @@
-# Variables and Methods
+# Variables
 [HOME](../../README.md)  
 
 The most basic python building block is the variable.  

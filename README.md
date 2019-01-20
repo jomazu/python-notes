@@ -3,8 +3,10 @@
 This repository contains my Python notes.  
 
 ## Section Links
-- [Terminal Commands](./TOC/terminal-cmds.md)
+- [Terminal Commands](./TOC/terminal-cmds.md)  
+### Python: Primitive Types  
 - [Variables](./TOC/Primitive_Types/variables.md)
+- [Strings](./TOC/Primitive_Types/strings.md)
 
 ## Useful Links
 - [Python](https://www.python.org/)  
