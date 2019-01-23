@@ -1,5 +1,8 @@
-# Lists (Unlike tuples, lists can be changed)
-grades = [77, 83, 92, 97, 100, 102, 109]
+# LISTS
+# Unlike tuples, lists can be changed.
+# List items are always returned in the order they were put in.
+
+grades = [92, 83, 77, 97, 100, 102, 109]
 
 
 def average():
@@ -20,13 +23,21 @@ grades.append(125)
 print(average())
 print(length())
 
+print("Before append has been applied to list: {}\n".format(grades))
+grades.append(202)
+print("After append has been applied to list: {}\n".format(grades))
 
-# Tuples (Immutable - cannot change their size)
+
+# TUPLES
+# Immutable - cannot change their size.
+
 grades = (77, 83, 92, 97, 100, 102, 109)
 
 
-# Sets (Unique and Unordered)
+# SETS
+# Unique and Unordered.
+
 set_grades = {77, 80, 90, 100, 100}
 
 # Notice the missing 100... because there are two of them in the set, only one is printed.  Unique values only.
-print(set_grades)
+print("The contents of the set: {}\n".format(set_grades))
